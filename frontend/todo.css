@@ -1,0 +1,39 @@
+
+body {
+    background-color: #1A1A1A;
+    color: #E6E6E6;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+}
+
+button {
+    background-color: #0073e6;
+    color: #E6E6E6;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005bb5;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #444;
+    border-radius: 4px;
+    background-color: #222;
+    color: #E6E6E6;
+}
